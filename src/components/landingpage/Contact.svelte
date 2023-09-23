@@ -9,7 +9,7 @@
         <div class="col">
           <label for="#name">Name</label>
           <input type="text" class="form-control" id="fullName" name="fullName">
-
+          <br>
           <label for="#email">Email</label>
           <input type="text" class="form-control" id="email" name="email">
 

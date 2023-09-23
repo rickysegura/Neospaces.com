@@ -7,27 +7,31 @@
         <div class="row mb-4">
             <div class="col">
                 <img src="losvega.png" class="rounded border" alt="portfolio example">
-                <h2>Los Vega Furniture, Los Angeles</h2>
+                <h2>Los Vega Furniture</h2>
+                <p>Landing page redesign and domain transfer, with website management after launch.</p>
                 <a href="https://www.losvegafurniture.com" target="_blank"><button class="btn btn-primary">View live <i class="fa-solid fa-link"></i></button></a> 
             </div>
 
             <div class="col">
                 <img src="cosmo.png" class="rounded border" alt="portfolio example">
-                <h2>Cosmo Smoke, Los Angeles</h2>
+                <h2>Cosmo Smoke Shop</h2>
+                <p>Landing page redesign with mobile-first approach.</p>
                 <a href="store.html" target="_blank"><button class="btn btn-primary">View live <i class="fa-solid fa-link"></i></button></a>
             </div>
         </div>
 
         <div class="row">
             <div class="col">
-                <img src="xbubble.png" class="rounded border" alt="portfolio example">
-                <h2>XBubbleBlix, Los Angeles</h2>
+                <img src="x.png" class="rounded border" alt="portfolio example">
+                <h2>XBubbleBlix</h2>
+                <p>Custom link tree design, hosting, website management.</p>
                 <a href="https://xbubbleblitzx.w3spaces.com" target="_blank"><button class="btn btn-primary">View live <i class="fa-solid fa-link"></i></button></a>
             </div>
 
             <div class="col">
-                <img src="ricky.png" class="rounded border" alt="portfolio example">
-                <h2>Ricky Segura, Los Angeles</h2>
+                <img src="RSgithub.png" class="rounded border" alt="portfolio example">
+                <h2>Ricky Segura</h2>
+                <p>Custom link tree design with animations.</p>
                 <a href="https://rickysegura.github.io" target="_blank"><button class="btn btn-primary">View live <i class="fa-solid fa-link"></i></button></a>
             </div>
         </div>
