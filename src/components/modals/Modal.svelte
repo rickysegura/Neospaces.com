@@ -4,7 +4,7 @@
 
 <div>
     <!-- Button to Open the Modal -->
-    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#{ModalId}">{ModalCTA}</button>
+    <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#{ModalId}">{ModalCTA}</button>
     
     <!-- The Modal -->
     <div class="modal fade" id={ModalId}>

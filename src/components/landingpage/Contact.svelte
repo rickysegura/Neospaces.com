@@ -4,7 +4,8 @@
     <h1>Contact Us</h1>
 
     <div class="container">
-      <p>Have any questions or want to schedule a free consulation? Let us know!</p>
+      <h2>Have any questions or want to schedule a free consulation? Let us know!</h2>
+      <p>Our e-mail: <a href="mailto:neospacesla@protonmail.com">neospacesla@protonmail.com</a></p>
       <div class="row">
         <div class="col">
           <label for="#name">Name</label>

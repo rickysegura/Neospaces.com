@@ -3,11 +3,24 @@
 <footer class="jumbotron jumbotron-fluid text-center mt-4">
     <img src="logo.jpg" alt="Neospaces logo" class="rounded">
 
+    <br>+1 818.299.3298
+
     <!-- Social links -->
-    <p>Check us out on<br>
-    <i class="fa-brands fa-yelp"></i>
-    <i class="fa-brands fa-instagram"></i>
-    <i class="fa-brands fa-google"></i></p>
+    <div>
+        <p>Check us out on<br>
+        <i class="fa-brands fa-yelp"></i>
+        <i class="fa-brands fa-instagram"></i>
+        <i class="fa-brands fa-google"></i></p>
+    </div>
+
+    <div>
+        <h3>Business Hours:</h3>
+        <p>
+            Monday - Friday: 9:00am - 4:00pm<br>
+            Saturday: 11:00am - 2:00pm<br>
+            Sunday: Closed<br>
+        </p>
+    </div>
 
     <p>Copyright&copy;2023 Neospaces. All rights reserved.</p>
 </footer>

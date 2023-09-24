@@ -14,23 +14,19 @@
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
       <ul class="navbar-nav">
         <li class="nav-item">
-        <!-- svelte-ignore a11y-invalid-attribute -->
+          <a class="nav-link" href="#Neospaces">Home</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="#Services">Services</a>
         </li>
         <li class="nav-item">
-        <!-- svelte-ignore a11y-invalid-attribute -->
           <a class="nav-link" href="#Portfolio">Portfolio</a>
         </li>
         <li class="nav-item">
-          <!-- svelte-ignore a11y-invalid-attribute -->
-          <a class="nav-link" href="#About">Team</a>
+          <a class="nav-link" href="#About">About</a>
         </li>
         <li class="nav-item">
-        <!-- svelte-ignore a11y-invalid-attribute -->
           <a class="nav-link" href="#Contact">Contact</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="mailto:neospacesla@protonmail.com">Email</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="tel:+18182993298">818.299.3298</a>

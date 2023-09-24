@@ -1,11 +1,12 @@
 <script></script>
 
-<div class="jumbotron jumbotron-fluid text-white mt-5" id="Neospaces">
-    <div class="container">
-      <h1>Professional Web Design &amp; Digital Marketing</h1>
-      <p>Get a <strong>modern</strong>, <strong>high-functioning</strong>, <strong>custom</strong> website that boosts and drives sales for your business!</p>
+<div class="jumbotron jumbotron-fluid text-white" id="Neospaces">
+    <div class="container pt-5">
+      <h1 class="display-3">Welcome to Neospaces:</h1>
+      <h2><small>A web design and development studio based in Los Angeles, California</small></h2>
 
-      <a href="https://calendly.com/neospaces-losangeles/consultation" target="_blank"><button type="button" class="btn btn-primary">Free consultation</button></a>
+      <br>
+      <a href="https://calendly.com/neospaces-losangeles/consultation" target="_blank"><button type="button" class="btn btn-primary">Schedule free consultation</button></a>
     </div>
 </div>
 
