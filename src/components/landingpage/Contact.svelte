@@ -1,10 +1,10 @@
 <script></script>
 
 <form class="container" id="Contact">
-    <h1>Contact Us</h1>
+    <h1>CONTACT US</h1>
 
     <div class="container">
-      <h2>Have any questions or want to schedule a free consulation? Let us know!</h2>
+      <h2>Have Any Questions or Want to Schedule a Free Consulation?</h2>
       <p>Our e-mail: <a href="mailto:neospacesla@protonmail.com">neospacesla@protonmail.com</a></p>
       <div class="row">
         <div class="col">
@@ -15,7 +15,7 @@
           <input type="text" class="form-control" id="email" name="email">
 
           <br>
-          <div class="text-center"><button type="submit" class="btn btn-primary">Submit</button></div>
+          <div class="text-center"><button type="submit" class="btn btn-primary">SUBMIT</button></div>
         </div>
         <div class="col">
           <label for="#msg">Message</label><br>

@@ -5,7 +5,7 @@
 <nav class="navbar navbar-expand-md bg-dark navbar-dark fixed-top">
     <!-- svelte-ignore a11y-invalid-attribute -->
     <a class="navbar-brand" href="#Neospaces">
-      <img src="logo.jpg" alt="logo" style="width:40px;"> Neospaces
+      <img src="logo.jpg" alt="logo" style="width:40px;" class="rounded"> NEOSPACES
     </a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -14,22 +14,22 @@
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="#Neospaces">Home</a>
+          <a class="nav-link" href="#Neospaces">HOME</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#Services">Services</a>
+          <a class="nav-link" href="#Services">OUR SERVICES</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#Portfolio">Portfolio</a>
+          <a class="nav-link" href="#Portfolio">PORTFOLIO</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#About">About</a>
+          <a class="nav-link" href="#About">ABOUT</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#Contact">Contact</a>
+          <a class="nav-link" href="#Contact">CONTACT US</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="tel:+18182993298">818.299.3298</a>
+          <a class="nav-link" href="mailto:neospacesla@protonmail.com">NEOSPACESLA@PROTONMAIL.COM</a>
         </li>
       </ul>
     </div>  

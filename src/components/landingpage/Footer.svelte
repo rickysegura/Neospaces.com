@@ -14,7 +14,7 @@
     </div>
 
     <div>
-        <h3>Business Hours:</h3>
+        <h3>BUSINESS HOURS</h3>
         <p>
             Monday - Friday: 9:00am - 4:00pm<br>
             Saturday: 11:00am - 2:00pm<br>
