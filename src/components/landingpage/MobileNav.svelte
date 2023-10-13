@@ -5,7 +5,7 @@
 <nav class="navbar navbar-expand-md bg-dark navbar-dark fixed-top">
     <!-- svelte-ignore a11y-invalid-attribute -->
     <a class="navbar-brand" href="#Neospaces">
-      <img src="logo.jpg" alt="logo" style="width:40px;" class="rounded"> NEOSPACES
+      <img src="logo.jpg" alt="logo" style="width:60px;" class="rounded">
     </a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -20,6 +20,9 @@
           <a class="nav-link" href="#Services">OUR SERVICES</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="#DesignProcess">OUR DESIGN PROCESS</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="#Portfolio">PORTFOLIO</a>
         </li>
         <li class="nav-item">
@@ -27,9 +30,6 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#Contact">CONTACT US</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="mailto:neospacesla@protonmail.com">NEOSPACESLA@PROTONMAIL.COM</a>
         </li>
       </ul>
     </div>  

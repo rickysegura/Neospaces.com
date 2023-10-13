@@ -1,13 +1,21 @@
 <script></script>
 
-<div id="About" class="jumbotron jumbotron-fluid bg-dark text-white mt-4">
+<div id="About" class="jumbotron jumbotron-fluid bg-dark mt-4">
     <div class="container">
-        <h1 class="mb-2">OUR TEAM</h1>
+        <h1 class="mb-2 text-white">OUR TEAM</h1>
 
         <div class="container">
-            <img src="goldcamp.jpg" class="rounded" alt="Ricky Segura, Neospaces owner">
-            <h2 class="mt-2">Ricky Segura - Owner and Web Developer</h2>
-            <p><q>I am passionate about the projects that I work on, and I am committed to providing the best and most affordable web design solutions for your online business needs.</q></p>
+            <div class="card pt-4" style="width:300px;">
+                <img src="https://pbs.twimg.com/profile_images/1711780790131191809/6A43g8El_400x400.jpg" style="width:150px;margin:auto;" class="rounded-circle" alt="Ricky Segura, Neospaces owner" />
+
+                <div class="card-body">
+                    <h2 class="mt-2">Ricky Segura</h2>
+                    <p><small>Owner &amp; Web Developer</small></p>
+                    <p><q>I am passionate about the projects that I work on, and I am committed to providing the best and most affordable web design solutions for your online business needs.</q></p>
+                    
+                    <a href="mailto:rickysegura@proton.me">rickysegura@proton.me</a>
+                </div>
+            </div>
         </div>
     </div>
 </div>
