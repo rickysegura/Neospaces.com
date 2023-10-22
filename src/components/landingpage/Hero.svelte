@@ -1,6 +1,6 @@
 <script></script>
 
-<div class="jumbotron jumbotron-fluid text-white h-100" id="Neospaces">
+<div class="jumbotron jumbotron-fluid text-white h-100" style="position:relative;" id="Neospaces">
     <!--
       linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
       https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 
@@ -14,11 +14,11 @@
         
         <br>
         <a href="https://calendly.com/neospaces-losangeles/consultation" target="_blank"><button type="button" class="btn btn-primary">Request a Quote</button></a>
-        -->
-
-        <div style="position:absolute;left:50%;top:90%;transform:translate(-50%, -90%);">
+        
+        <div style="position:absolute;left:50%;top:50%;transform:translate(-50%, -50%);">
           <a href="https://calendly.com/neospaces-losangeles/consultation" target="_blank"><button type="button" class="btn btn-primary">Request a Quote</button></a>
         </div>
+        -->
       </div>
     </div>
 </div>
@@ -29,6 +29,5 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
   }
 </style>

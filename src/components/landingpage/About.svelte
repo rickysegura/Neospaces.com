@@ -6,7 +6,7 @@
 
         <div class="container">
             <div class="card pt-4" style="width:300px;">
-                <img src="https://pbs.twimg.com/profile_images/1711780790131191809/6A43g8El_400x400.jpg" style="width:150px;margin:auto;" class="rounded-circle" alt="Ricky Segura, Neospaces owner" />
+                <img src="./prof.jpg" style="width:150px;margin:auto;" class="rounded-circle" alt="Ricky Segura, Neospaces owner" />
 
                 <div class="card-body">
                     <h2 class="mt-2">Ricky Segura</h2>

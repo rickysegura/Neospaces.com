@@ -29,7 +29,7 @@
             </div>
 
             <div class="col">
-                <img src="RSgithub.png" class="rounded border" alt="portfolio example">
+                <img src="github.png" class="rounded border" alt="portfolio example">
                 <h2>Ricky Segura</h2>
                 <p>Custom link tree design with animations.</p>
                 <a href="https://rickysegura.github.io" target="_blank"><button class="btn btn-primary">VIEW LIVE <i class="fa-solid fa-link"></i></button></a>
