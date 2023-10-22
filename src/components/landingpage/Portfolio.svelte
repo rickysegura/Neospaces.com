@@ -20,7 +20,7 @@
             </div>
         </div>
 
-        <div class="row">
+        <div class="row mb-4">
             <div class="col">
                 <img src="x.png" class="rounded border" alt="portfolio example">
                 <h2>XBubbleBlix</h2>
