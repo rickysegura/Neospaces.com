@@ -1,8 +1,8 @@
 <script></script>
 
-<div id="About" class="jumbotron jumbotron-fluid bg-dark mt-4">
+<div id="About" class="jumbotron jumbotron-fluid mt-4">
     <div class="container">
-        <h1 class="mb-2 text-white">OUR TEAM</h1>
+        <h1 class="mb-2">OUR TEAM</h1>
 
         <div class="container">
             <div class="card pt-4" style="width:300px;">

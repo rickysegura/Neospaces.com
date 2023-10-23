@@ -1,8 +1,8 @@
 <script></script>
 
-<div class="jumbotron jumbotron-fluid bg-dark mt-4" id="DesignProcess">
+<div class="jumbotron jumbotron-fluid mt-4" id="DesignProcess">
     <div class="container">
-        <h1 class="text-white">OUR DESIGN PROCESS</h1>
+        <h1>OUR DESIGN PROCESS</h1>
 
         <div class="card-columns container">
             <!-- Concept card -->
