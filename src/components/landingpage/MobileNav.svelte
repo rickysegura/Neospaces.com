@@ -2,7 +2,7 @@
     // your script goes here
 </script>
 
-<nav class="navbar navbar-expand-md bg-dark navbar-dark fixed-top">
+<nav class="navbar navbar-expand-md navbar-dark fixed-top" style="background-color:black">
     <!-- svelte-ignore a11y-invalid-attribute -->
     <a class="navbar-brand" href="#Neospaces">
       <img src="logo.jpg" alt="logo" style="width:60px;" class="rounded">

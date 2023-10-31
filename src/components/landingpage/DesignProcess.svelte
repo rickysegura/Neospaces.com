@@ -1,10 +1,11 @@
 <script></script>
 
-<div class="jumbotron jumbotron-fluid mt-4" id="DesignProcess">
+<div class="jumbotron jumbotron-fluid mt-5" id="DesignProcess">
     <div class="container">
         <h1>OUR DESIGN PROCESS</h1>
+        <hr class="border">
 
-        <div class="card-columns container">
+        <div class="card-columns">
             <!-- Concept card -->
             <div class="card">
                 <div class="card-header">

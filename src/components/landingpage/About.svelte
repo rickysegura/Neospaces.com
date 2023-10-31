@@ -1,11 +1,12 @@
 <script></script>
 
-<div id="About" class="jumbotron jumbotron-fluid mt-4">
+<div id="About" class="mt-4">
     <div class="container">
-        <h1 class="mb-2">OUR TEAM</h1>
+        <h1 class="mb-2 display-3">OUR TEAM</h1>
+        <hr class="border">
 
-        <div class="container">
-            <div class="card pt-4" style="width:300px;">
+        <div>
+            <div class="card pt-4 bg-light" style="width:300px;">
                 <img src="./prof.jpg" style="width:150px;margin:auto;" class="rounded-circle" alt="Ricky Segura, Neospaces owner" />
 
                 <div class="card-body">

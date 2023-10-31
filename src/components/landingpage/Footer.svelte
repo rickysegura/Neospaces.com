@@ -1,9 +1,9 @@
 <script></script>
 
-<footer class="jumbotron jumbotron-fluid text-center mt-4">
+<footer class="jumbotron jumbotron-fluid text-center mt-4 text-white" style="background-color:black;">
     <img src="logo.jpg" alt="Neospaces logo" class="rounded">
 
-    <br>+1 818.299.3298
+    <br>+1 818-299-3298
 
     <!-- Social links -->
     <div>
@@ -27,6 +27,6 @@
 
 <style>
     img {
-        max-height: 75px;
+        max-height: 100px;
     }
 </style>
