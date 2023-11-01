@@ -1,6 +1,6 @@
 <script></script>
 
-<div class="jumbotron jumbotron-fluid text-white h-100" id="Neospaces">
+<div class="jumbotron jumbotron-fluid text-white h-100 mt-5" id="Neospaces">
   <div class="container mt-4" style="max-width:900px;margin:auto;">
     
     <h1 class="display-1" id="largeScreenTitle">NEOSPACES</h1>
