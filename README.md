@@ -1,3 +1,3 @@
-# Neospaces.com
-# Los Angeles, California
+# myneospaces.com
+Los Angeles, California
 # neospacesla@protonmail.com
