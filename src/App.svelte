@@ -1,6 +1,7 @@
 <script>
 	import MobileNav from "./components/landingpage/MobileNav.svelte";
 	import HomeHero from "./components/landingpage/Hero.svelte";
+	import FAQmodal from "./components/landingpage/FAQmodal.svelte";
 	import Introduction from "./components/landingpage/Introduction.svelte";
 	import Services from "./components/landingpage/Services.svelte";
 	import Portfolio from "./components/landingpage/Portfolio.svelte";
@@ -13,6 +14,9 @@
 <main>
 	<!-- Page Nav -->
 	<MobileNav />
+
+	<!-- FAQ modal -->
+	<FAQmodal />
 
 	<!-- Hero section -->
 	<HomeHero />
