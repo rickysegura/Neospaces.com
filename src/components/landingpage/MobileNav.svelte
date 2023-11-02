@@ -17,16 +17,16 @@
           <a class="nav-link" href="#Neospaces">HOME</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="#About">OUR TEAM</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="#Services">OUR SERVICES</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#DesignProcess">OUR DESIGN PROCESS</a>
+          <a class="nav-link" href="#demo">OUR DESIGN PROCESS</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#Portfolio">PORTFOLIO</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#About">ABOUT</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#Contact">CONTACT US</a>
