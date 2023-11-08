@@ -8,11 +8,11 @@
         <div class="row mb-4">
             <div class="col">
                 <div class="mb-4 border rounded bg-light">
-                    <img src="losvega.png" alt="portfolio example">
+                    <img src="losvega.png" alt="portfolio project">
                 
                     <div class="container mb-4">
                         <h2>Los Vega Furniture</h2>
-                        <p>Landing page redesign and domain transfer, with website management after launch.</p>
+                        <p>Landing page redesign and domain transfer, with website management and hosting after launch.</p>
                         <a href="https://www.losvegafurniture.com" target="_blank"><button class="btn btn-primary">View Live <i class="fa-solid fa-link"></i></button></a> 
                     </div>
                 </div>
@@ -20,7 +20,7 @@
 
             <div class="col">
                 <div class="mb-4 border rounded bg-light">
-                    <img src="cosmo.png" alt="portfolio example">
+                    <img src="cosmo.png" alt="portfolio project">
                     
                     <div class="container mb-4">
                         <h2>Cosmo Smoke Shop</h2>
@@ -30,7 +30,7 @@
                 </div>
 
                 <div class="mb-4 border rounded bg-light">
-                    <img src="apod.png" alt="portfolio example">
+                    <img src="apod.png" alt="Portfolio project">
 
                     <div class="container mb-4">
                         <h2>AstroPhoto</h2>
@@ -40,11 +40,11 @@
                 </div>
 
                 <div class="mb-4 border rounded bg-light">
-                    <img src="github.png" alt="portfolio example">
+                    <img src="github.png" alt="Portfolio project">
 
                     <div class="container mb-4">
                         <h2>Ricky Segura</h2>
-                        <p>Custom link tree design with animations.</p>
+                        <p>Animated link tree with custom animations and UI. Mobile-responsive, hosted on GitHub Pages.</p>
                         <a href="https://rickysegura.github.io" target="_blank"><button class="btn btn-primary">View Live <i class="fa-solid fa-link"></i></button></a>
                     </div>
                 </div>

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/          # Disallow crawling of the admin section
+Disallow: /private/        # Disallow crawling of any private sections
+Disallow: /images/         # Disallow crawling of images directory
+Disallow: /scripts/        # Disallow crawling of scripts directory
+
+Sitemap: https://www.myneospaces.com/sitemap.xml  # Specify the location of your sitemap

@@ -2,8 +2,8 @@
 
 <div class="jumbotron jumbotron-fluid text-white h-100 mt-5" id="Neospaces">
   <div class="container mt-4" style="max-width:900px;margin:auto;">
-    <h1 class="display-1" id="largeScreenTitle">NEOSPACES</h1>
-    <h1 class="display-3" id="smallScreenTitle">NEOSPACES</h1>
+    <h1 class="display-1" id="largeScreenTitle"><strong>NEOSPACES</strong></h1>
+    <h1 class="display-3" id="smallScreenTitle"><strong>NEOSPACES</strong></h1>
 
     <p class="display-4">Crafting Modern, Responsive Websites in Los Angeles</p>
 

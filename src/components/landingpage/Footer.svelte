@@ -22,6 +22,10 @@
         </p>
     </div>
 
+    <div>
+        <a href="sitemap.xml" target="_blank">Site Map</a>
+    </div>
+
     <p>Copyright&copy;2023 Neospaces. All rights reserved.</p>
 </footer>
 

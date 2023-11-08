@@ -22,7 +22,7 @@
     <p>With Neospaces, you can expect more than just a website. You'll gain a partner committed to your success, offering high conversion rates, in-depth data analytics, and unwavering support. Let's unlock the full potential of your online presence together.</p>
     
     <!-- Intro important points -->
-    <button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#keyPoints" on:click={handleKeyPoints}>Why You <strong>Need</strong> Professional Web Design <i class="fa-solid fa-circle-chevron-down" id="down"></i><i class="fa-solid fa-circle-chevron-up" id="up"></i></button>
+    <button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#keyPoints" on:click={handleKeyPoints}>Why You Need Professional Web Design <i class="fa-solid fa-circle-chevron-down" id="down"></i><i class="fa-solid fa-circle-chevron-up" id="up"></i></button>
     <div id="keyPoints" class="collapse mt-3">
         <h2><strong>Your Website Matters:</strong></h2>
         <p>In a world where connections are forged through screens, your website is your business's gateway to the world. It's not just a digital storefront; it's your 24/7 salesperson, showcasing your products and services to potential customers across the globe.</p>

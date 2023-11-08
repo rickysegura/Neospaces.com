@@ -5,9 +5,10 @@
     <hr class="border">
 
     <div>
-      <h2>Have Any Questions or Want to Schedule a Free Consulation?</h2>
-      <p>Our Email: <a href="mailto:neospacesla@protonmail.com">neospacesla@protonmail.com</a></p>
-      <p>Call Us: <a href="tel:818-299-3298">818-299-3298</a></p>
+      <p>Have Any Questions or Want to Schedule a Free Consulation?</p>
+
+      <p><i class="fa-regular fa-envelope fa-bounce"></i> <a href="mailto:neospacesla@protonmail.com">neospacesla@protonmail.com</a></p>
+      <p><strong>Phone: </strong><a href="tel:818-299-3298">818-299-3298</a></p>
     </div>
 </form>
 
