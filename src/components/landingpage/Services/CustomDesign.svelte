@@ -21,7 +21,7 @@
                         <div class="modal-content text-dark">
                             <!-- Modal Header -->
                             <div class="modal-header">
-                                <h4 class="modal-title"><strong>Tailored Web Design and Development</strong></h4>
+                                <h4 class="modal-title"><strong><i class="fa-solid fa-code"></i> Tailored Web Design and Development</strong></h4>
                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
                             </div>
                     

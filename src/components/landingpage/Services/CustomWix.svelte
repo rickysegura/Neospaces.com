@@ -21,7 +21,7 @@
                         <div class="modal-content text-dark">
                             <!-- Modal Header -->
                             <div class="modal-header">
-                                <h4 class="modal-title"><strong>Custom Web Design with Wix</strong></h4>
+                                <h4 class="modal-title"><strong><i class="fa-brands fa-wix"></i> Custom Web Design with Wix</strong></h4>
                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
                             </div>
                     
