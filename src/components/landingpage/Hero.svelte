@@ -5,10 +5,12 @@
     <h1 class="display-1" id="largeScreenTitle"><strong>NEOSPACES</strong></h1>
     <h1 class="display-3" id="smallScreenTitle"><strong>NEOSPACES</strong></h1>
 
-    <p class="display-4">Crafting Modern, Responsive Websites with High Conversion Rates</p>
-    <p class="display-4" id="heroBrands"><i class="fa-brands fa-squarespace"></i> <i class="fa-brands fa-wordpress"></i> <i class="fa-brands fa-shopify"></i> <i class="fa-solid fa-code"></i> <i class="fa-brands fa-wix"></i> <i class="fa-brands fa-stripe"></i></p>
+    <h2 class="display-4">Crafting Modern, Responsive Websites with High Conversion Rates</h2>
+    <h2 class="display-4 text-warning" id="heroBrands"><i class="fa-brands fa-squarespace"></i> <i class="fa-brands fa-wordpress"></i> <i class="fa-brands fa-shopify"></i> <i class="fa-solid fa-code"></i> <i class="fa-brands fa-wix"></i> <i class="fa-brands fa-stripe"></i></h2>
 
-    <a href="#Services"><button type="button" class="btn btn-outline-primary">Explore Our Services</button></a>
+    <div class="pt-2">
+      <a href="#Services"><button type="button" class="btn btn-outline-primary btn-block">Explore Our Services</button></a>
+    </div>
   </div>
 </div>
 

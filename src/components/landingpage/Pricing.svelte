@@ -26,6 +26,4 @@
     </div>
 </div>
 
-<style>
-
-</style>
+<style></style>

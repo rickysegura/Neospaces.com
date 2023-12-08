@@ -3,6 +3,7 @@
 	import HomeHero from "./components/landingpage/Hero.svelte";
 	import FAQmodal from "./components/landingpage/FAQmodal.svelte";
 	import Introduction from "./components/landingpage/Introduction.svelte";
+	import Guarantees from "./components/landingpage/Guarantees.svelte";
 	import Services from "./components/landingpage/Services.svelte";
 	import Portfolio from "./components/landingpage/Portfolio.svelte";
 	import DesignCarousel from "./components/landingpage/DesignCarousel.svelte";
@@ -23,6 +24,9 @@
 
 	<!-- Introduction -->
 	<Introduction />
+
+	<!-- Guarantees -->
+	<Guarantees />
 	
 	<!-- About section -->
 	<About />

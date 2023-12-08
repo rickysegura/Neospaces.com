@@ -1,6 +1,4 @@
-<script>
-    // your script goes here
-</script>
+<script></script>
 
 <nav class="navbar navbar-expand-md navbar-dark fixed-top" style="background-color:black">
     <!-- svelte-ignore a11y-invalid-attribute -->
@@ -34,6 +32,9 @@
         <li class="nav-item">
           <!-- svelte-ignore a11y-missing-attribute -->
           <a class="nav-link" data-toggle="modal" data-target="#frequentQuestions" id="FAQbtn">FAQ</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="tel:8182993298"><i class="fa-solid fa-phone-flip fa-beat-fade" style="color: #ffffff;"></i></a>
         </li>
       </ul>
     </div>  

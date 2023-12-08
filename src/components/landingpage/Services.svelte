@@ -1,7 +1,9 @@
 <script>
     import CustomDesign from "./Services/CustomDesign.svelte";
+    import WebHosting from "./Services/WebHosting.svelte";
     import WebManage from "./Services/WebManage.svelte";
     import CustomSquarespace from "./Services/CustomSquarespace.svelte";
+    import CustomShopify from "./Services/CustomShopify.svelte";
     import CustomWix from "./Services/CustomWix.svelte";
     import CustomWordpress from "./Services/CustomWordpress.svelte"
 </script>
@@ -12,20 +14,26 @@
         <hr class="border">
     </div>
 
-    <!-- Custom web design -->
-    <CustomDesign />
+    <!-- Web hosting -->
+    <WebHosting/>
 
     <!-- Website management and maintenance -->
-    <WebManage />
+    <WebManage/>
     
     <!-- Custom web design w/ Squarespace -->
-    <CustomSquarespace />
+    <CustomSquarespace/>
     
     <!-- Custom web design w/ Wix -->
-    <CustomWix />
+    <CustomWix/>
     
     <!-- Custom web design w/ WordPress -->
-    <CustomWordpress />
+    <CustomWordpress/>
+
+    <!-- Custom web design w/ Shopify -->
+    <CustomShopify/>
+
+    <!-- Custom web design -->
+    <CustomDesign/>
 </div>
 
 <style></style>

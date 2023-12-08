@@ -11,9 +11,7 @@
 
                 <div class="card-body">
                     <h2><strong>Meet Our Founder and Lead Developer</strong></h2>
-                    <p><q>Hello, I'm Ricky Segura, the driving force behind Neospaces. With over five years of hands-on experience in web development, I bring a wealth of expertise to every project. I hold certifications in front-end development and possess a detailed understanding of information technology, digital marketing, and website security.</q></p>
-
-                    <a href="mailto:rickysegura@proton.me">rickysegura@proton.me</a>
+                    <p><q>Hello, I'm Ricky Segura, the driving force behind Neospaces. With over five years of hands-on experience in web development, I bring a wealth of expertise to every project. I hold certifications in front end web development and possess a detailed understanding of information technology, digital marketing, and website security.</q></p>
                 </div>
             </div>
         </div>

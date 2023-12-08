@@ -1,14 +1,10 @@
 <script></script>
 
-<div id="FreeHosting" class="row mb-4">
-    <div class="col-md-4 text-center">
-        <img src="about.png" alt="Web Management and Maintenance" class="rounded">
-    </div>
-
-    <div class="col-md-8">
+<div class="mb-5">
+    <div>
         <div class="container">
-            <h2><strong>Website Management and Maintenance</strong></h2>
-            <p><small>Starting at $50</small></p>
+            <h2><strong><i class="fa-solid fa-shield-halved"></i> Website Management and Maintenance</strong></h2>
+            <p class="text-secondary"><small>Starting at $25</small></p>
             <p>Your website is the digital face of your business. At Neospaces, we understand the importance of keeping it running smoothly, securely, and up-to-date. Our Website Management and Maintenance service...</p>
 
             <div>
@@ -31,12 +27,12 @@
                             
                                 <p><strong>What We Offer:</strong></p>
                                 <ul>
-                                    <li><strong>Regular Updates:</strong> We'll handle all software updates, ensuring your website is equipped with the latest features and security patches.</li>
-                                    <li><strong>Performance Monitoring:</strong> We keep a vigilant eye on your website's performance, making adjustments as needed to maintain optimal speed and functionality.</li>
-                                    <li><strong>Security Fortification:</strong> Our team implements robust security measures to protect your website from potential threats, keeping your data and customer information safe.</li>
-                                    <li><strong>Content Updates:</strong> Need to add new products, update services, or publish fresh content? We've got you covered with prompt and precise content management.</li>
-                                    <li><strong>Backup and Recovery:</strong> Your data is valuable. We provide regular backups and a seamless recovery process in case of unexpected events.</li>
-                                    <li><strong>Dedicated Support:</strong> Have questions or need assistance? Our team is here to provide expert support and guidance whenever you need it.</li>
+                                    <li><strong>Regular Updates:</strong><br> We'll handle all software updates, ensuring your website is equipped with the latest features and security patches.</li>
+                                    <li><strong>Performance Monitoring:</strong><br> We keep a vigilant eye on your website's performance, making adjustments as needed to maintain optimal speed and functionality.</li>
+                                    <li><strong>Security Fortification:</strong><br> Our team implements robust security measures to protect your website from potential threats, keeping your data and customer information safe.</li>
+                                    <li><strong>Content Updates:</strong><br> Need to add new products, update services, or publish fresh content? We've got you covered with prompt and precise content management.</li>
+                                    <li><strong>Backup and Recovery:</strong><br> Your data is valuable. We provide regular backups and a seamless recovery process in case of unexpected events.</li>
+                                    <li><strong>Dedicated Support:</strong><br> Have questions or need assistance? Our team is here to provide expert support and guidance whenever you need it.</li>
                                 </ul>
 
                                 <p>With Neospaces overseeing your website management and maintenance, you can focus on what you do best – growing your business.</p>
@@ -54,6 +50,4 @@
     </div>
 </div>
 
-<style>
-    img { max-height: 150px; }
-</style>
+<style></style>
